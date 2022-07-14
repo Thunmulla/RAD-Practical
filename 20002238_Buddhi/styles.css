@@ -1,0 +1,17 @@
+body{
+    background-color:#E0FFFF;
+}
+
+.img {
+
+    text-align:center;
+
+}
+
+.img img{
+    width: 200px;
+}
+
+.text {
+    text-align: center;
+}
